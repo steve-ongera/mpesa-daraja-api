@@ -11,3 +11,7 @@ This project demonstrates how to integrate M-Pesa in a web or mobile application
 - [M-Pesa Developer Portal](https://developer.safaricom.co.ke/)
 
 Happy Coding! 🚀
+
+## Inquiry 
+- +254 112284093
+- steveongerah@gmail.com
